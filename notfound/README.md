@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](https://cumland.fun/notfound/screenshot.PNG)
+![screenshot](https://cumland.fun/notfound/ss.png)
 
 ### Built With
 
